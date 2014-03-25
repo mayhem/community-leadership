@@ -1,6 +1,8 @@
 # No leader, no project. 
 
 Bottom is not enough. ( http://kk.org/thetechnium/archives/2008/02/the_bottom_is_n.php )
+- Examples to demonstrate what happens in a project with no leader.
+- Decision-making: when to make the call on behalf of the group, and when to consult the group for final decisions.
 
 # Build a core team. 
 
@@ -9,10 +11,6 @@ Identify needed positions, fill them with qualified people. If a person leaves, 
 # Delegate. Follow-up. Deliver.
 
 Delegating is important, but doing it without follow-up is pointless.
-
-# Sanity check constantly. Call Bullshit ASAP.
-
-If something is off the rails, speak up now.
 
 # Document everything.
 
@@ -25,6 +23,10 @@ If you have no idea of time passing, how can you ensure that you'll deliver on t
 # Know your budget.
 
 Even if its a rough budget, how can you tell if your project is feasible? 
+
+# Sanity check constantly. Call Bullshit ASAP.
+
+If something is off the rails, speak up now.
 
 # Don't waste people's time.
 
