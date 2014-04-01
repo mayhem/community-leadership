@@ -1,3 +1,5 @@
+Core points for running a time-limted community project, such as creating art for Nowhere or Burning Man. Some of these points don't apply to ongoing projects, like open source projects.
+
 # No leader, no project. 
 
 Bottom is not enough. ( http://kk.org/thetechnium/archives/2008/02/the_bottom_is_n.php )
@@ -15,6 +17,10 @@ Delegating is important, but doing it without follow-up is pointless.
 # Document everything.
 
 Decisions, plans, schedules. Keep project info online and accessible to all. It does not have to be exhaustive, but it has to be something.
+
+# Limit the number of forms of communication.
+
+Make it clear how people can follow the project and what will be discussed where. Don't allow duplicate channels.
 
 # Have a project timeline.
 
